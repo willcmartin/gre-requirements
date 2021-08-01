@@ -1,8 +1,6 @@
 # GRE Requirements
 
-GRE requirements by school and department for admission into graduate programs
-
-Submit a pull request to add schools!
+Is the GRE required for that graduate program you want to apply to? Well, now you know! Or it wasn't on this list and you kindly added it for everyone else.
 
 ## Fall 2022 Admission
 
