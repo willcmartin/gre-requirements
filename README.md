@@ -12,6 +12,9 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | MIT | Not Accepted | [link](https://www.eecs.mit.edu/academics-admissions/graduate-program/faqs) |
 | University of California, Berkeley | Not Accepted | [link](https://me.berkeley.edu/graduate/application-requirements/) |
 | Caltech | Optional | [link](https://cms.caltech.edu/academics/grad) | 
+| Georgia Tech | Not Accepted | [link](https://grad.gatech.edu/degree-programs/computer-science-campus) |
+| Carnegie Mellon | Not yet announced | [link](https://www.cs.cmu.edu/academics/graduate-admissions) |
+
 
 ### Mechanical Engineering
 
@@ -22,4 +25,9 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | University of California, Berkeley | Optional | [link](https://me.berkeley.edu/graduate/application-requirements/) |
 | The University of Iowa |  Not Accepted | [link](https://me.engineering.uiowa.edu/graduate/mechanical-engineering-graduate-program/me-admission-requirements) |
 | Caltech | Not Accepted | [link](https://mce.caltech.edu/academics/grad) | 
-
+| Georgia Tech | Not yet announced | [link](https://grad.gatech.edu/degree-programs/mechanical-engineering) |
+| University of Minnesota – Twin Cities | Not Accepted | [link](https://cse.umn.edu/me/academics/graduate/prospective/admissions) |
+| University of Wisconsin – Madison | Not Accepted | [link](https://guide.wisc.edu/graduate/mechanical-engineering/mechanical-engineering-phd/#admissionstext) |
+| University of Michigan – Ann Arbor | Not Accepted | [link](https://me.engin.umich.edu/admissions/graduate/application-requirements) |
+| Johns-Hopkins | Not yet announced | [link](https://me.jhu.edu/meche-graduate-admissions/)
+|	University of Illinois – Urbana-Champaign (UIUC) | Required | [link](http://catalog.illinois.edu/graduate/engineering/mechanical-engineering-phd/)
