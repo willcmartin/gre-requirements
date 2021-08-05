@@ -19,6 +19,13 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | University of Wisconsin - Madison | Optional | [link](https://www.cs.wisc.edu/graduate/ms-and-phd-program/) | Score submission is recommended |
 | Harvard University | Not Accepted | [link](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html) |
 | University of Texas - Austin | Optional | [link](https://www.cs.utexas.edu/graduate/prospective-students/apply) |
+|	University of Illinois - Urbana-Champaign | Optional | [link](https://cs.illinois.edu/admissions/graduate/faqs) |
+|	University of Washington | Required | [link](https://www.cs.washington.edu/academics/pmp/admissions/prerequisites) |
+| Princeton University | Not Accepted | [link](https://gradschool.princeton.edu/gre-requirements-department) |
+| Columbia University | Required | [link](https://www.cs.columbia.edu/education/admissions8/) |
+| University of California - San Diego | Optional | [link](https://cse.ucsd.edu/graduate/admissions) |
+| Yale University | Not Accepted | [link](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements) | Score is required for master's program |
+| Northwestern University | Optional | [link](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/)
 
 ### Mechanical Engineering
 
@@ -37,3 +44,7 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 |	University of Illinois - Urbana-Champaign | Required | [link](http://catalog.illinois.edu/graduate/engineering/mechanical-engineering-phd/) |
 | Cornell | Not Accepted | [link](https://www.mae.cornell.edu/mae/programs/graduate-programs/phd-degree/admissions) |
 | Carnegie Mellon University | Not Accepted | [link](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html) |
+| Princeton University | Not Accepted | [link](https://gradschool.princeton.edu/gre-requirements-department) |
+| Yale University | Required| [link](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements) |
+
+_Note: Many schools are still in the process of updating their websites for Fall 2022 admission. Please make sure to double check the source link if you're planning to apply!_
