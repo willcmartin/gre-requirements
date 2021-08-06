@@ -27,6 +27,8 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | Yale University | Not Accepted | [link](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements) | Score is required for master's program |
 | Northwestern University | Optional | [link](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/) |
 | University of California - Los Angeles | Optional | [link](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/) |
+| Virginia Tech | Optional | [link](https://cs.vt.edu/Graduate/Prospective.html) |
+| University of California - Merced Tech | Required | [link](https://graduatedivision.ucmerced.edu/prospective-students/apply-now/requirements) |
 
 ### Mechanical Engineering
 
