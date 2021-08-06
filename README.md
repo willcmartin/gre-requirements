@@ -11,7 +11,7 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | Stanford | Optional | [link](https://cs.stanford.edu/admissions/checklist) |
 | MIT | Not Accepted | [link](https://www.eecs.mit.edu/academics-admissions/graduate-program/faqs) |
 | University of California - Berkeley | Not Accepted | [link](https://me.berkeley.edu/graduate/application-requirements/) |
-| Caltech | Optional | [link](https://cms.caltech.edu/academics/grad) | 
+| Caltech | Optional | [link](https://cms.caltech.edu/academics/grad) |
 | Georgia Tech | Not Accepted | [link](https://grad.gatech.edu/degree-programs/computer-science-campus) |
 | Carnegie Mellon | Unannounced | [link](https://www.cs.cmu.edu/academics/graduate-admissions) |
 | University of Michigan - Ann Arbor | Not Accepted | [link](https://cse.engin.umich.edu/academics/graduate/admissions/) |
@@ -29,6 +29,10 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | University of California - Los Angeles | Optional | [link](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/) |
 | Virginia Tech | Optional | [link](https://cs.vt.edu/Graduate/Prospective.html) |
 | University of California - Merced Tech | Required | [link](https://graduatedivision.ucmerced.edu/prospective-students/apply-now/requirements) |
+| University of Massachusetts, Amherst | Required | [link](https://www.cics.umass.edu/admissions/application-instructions) | GRE required for master's only
+| Arizona State University | Required | [link](https://webapp4.asu.edu/programs/t5/majorinfo/ASU00/ESCENCMS/graduate/false) |
+| North Carolina State University | Required | [link](https://www.csc.ncsu.edu/academics/graduate/procedure.php) |
+| Texas A & M University | Not Accepted | [link](https://engineering.tamu.edu/cse/academics/degrees/graduate/faq.html#tests) |
 
 ### Mechanical Engineering
 
@@ -38,7 +42,7 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | MIT | Not Accepted | [link](http://meche.mit.edu/education/prospective-students/graduate/apply) |
 | University of California - Berkeley | Optional | [link](https://me.berkeley.edu/graduate/application-requirements/) |
 | University of Iowa |  Not Accepted | [link](https://me.engineering.uiowa.edu/graduate/mechanical-engineering-graduate-program/me-admission-requirements) |
-| Caltech | Not Accepted | [link](https://mce.caltech.edu/academics/grad) | 
+| Caltech | Not Accepted | [link](https://mce.caltech.edu/academics/grad) |
 | Georgia Tech | Unannounced | [link](https://grad.gatech.edu/degree-programs/mechanical-engineering) |
 | University of Minnesota - Twin Cities | Not Accepted | [link](https://cse.umn.edu/me/academics/graduate/prospective/admissions) |
 | University of Wisconsin - Madison | Not Accepted | [link](https://guide.wisc.edu/graduate/mechanical-engineering/mechanical-engineering-phd/#admissionstext) |
