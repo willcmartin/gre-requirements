@@ -25,8 +25,8 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | Columbia University | Required | [link](https://www.cs.columbia.edu/education/admissions8/) |
 | University of California - San Diego | Optional | [link](https://cse.ucsd.edu/graduate/admissions) |
 | Yale University | Not Accepted | [link](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements) | Score is required for master's program |
-| Northwestern University | Optional | [link](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/)
-| University of California - Los Angeles | Optional | [link](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/)
+| Northwestern University | Optional | [link](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/) |
+| University of California - Los Angeles | Optional | [link](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/) |
 
 ### Mechanical Engineering
 
@@ -48,4 +48,23 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | Princeton University | Not Accepted | [link](https://gradschool.princeton.edu/gre-requirements-department) |
 | Yale University | Required| [link](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements) |
 
+### Psychology (Ph.D.)
+| School | GRE Requirement | Source | Notes
+|--|--|--|--|
+| University of California - Davis | Optional | [link](https://psychology.ucdavis.edu/graduate/how-to-apply) |
+| University of California - Merced | Optional | [link](https://graduatedivision.ucmerced.edu/prospective-students/apply-now/requirements) |
+
+### Educational Leadership (Ed.D.)
+| School | GRE Requirement | Source | Notes
+|--|--|--|--|
+| California State University - Stanislaus | Optional | TODO |
+
 _Note: Many schools are still in the process of updating their websites for Fall 2022 admission. Please make sure to double check the source link if you're planning to apply!_
+
+### Additional resources:
+- [CS/CS-Adjacent GRE Requirements](https://docs.google.com/spreadsheets/d/13YIIj0x4VnjC1xGyeX_-VcIUrtxUKrGw12dP9YmA6Yc/edit#gid=0)
+- [USA/Canada Math PhD Programs: GRE requirements and Qualifying Exams](https://docs.google.com/spreadsheets/d/1hmdO7af3-lLvtJQO-szayG6blTvAYBQ1JcYXFZ_6apE/edit#gid=0)
+
+### TODO:
+- Add information from additional resources to this file
+- (Request) Electrical engineering
