@@ -54,6 +54,15 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | Princeton University | Not Accepted | [link](https://gradschool.princeton.edu/gre-requirements-department) |
 | Yale University | Required| [link](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements) |
 
+### Physics
+| School | GRE Requirement | GRE Subject Test Requirement | Source | Notes
+|--|--|--|--|--|
+| Rensselaer Polytechnic Institute | Optional | Optional | [link](https://www.reddit.com/r/gradadmissions/comments/oyvadl/a_list_of_schools_and_their_gre_requirements_for/h7x6es5?utm_source=share&utm_medium=web2x&context=3) | More reliable source needed |
+| University of Utah | Optional | Optional | [link](https://www.reddit.com/r/gradadmissions/comments/oyvadl/a_list_of_schools_and_their_gre_requirements_for/h7x6es5?utm_source=share&utm_medium=web2x&context=3) | More reliable source needed |
+| University of Connecticut | Optional | Optional | [link](https://www.reddit.com/r/gradadmissions/comments/oyvadl/a_list_of_schools_and_their_gre_requirements_for/h7x6es5?utm_source=share&utm_medium=web2x&context=3) | More reliable source needed |
+| University of Nebraska | Optional | Optional | [link](https://www.reddit.com/r/gradadmissions/comments/oyvadl/a_list_of_schools_and_their_gre_requirements_for/h7x6es5?utm_source=share&utm_medium=web2x&context=3) | More reliable source needed |
+| University of Delaware | Optional | Optional | [link](https://www.reddit.com/r/gradadmissions/comments/oyvadl/a_list_of_schools_and_their_gre_requirements_for/h7x6es5?utm_source=share&utm_medium=web2x&context=3) | More reliable source needed |
+
 ### Psychology (Ph.D.)
 | School | GRE Requirement | Source | Notes
 |--|--|--|--|
@@ -64,6 +73,16 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | School | GRE Requirement | Source | Notes
 |--|--|--|--|
 | California State University - Stanislaus | Optional | TODO |
+
+### Cultural Studies (MA)
+| School | GRE Requirement | Source | Notes
+|--|--|--|--|
+| University of Washington - Bothell | Optional | [link](https://www.uwb.edu/cultural-studies/admissions) |
+
+### Library Science
+| School | GRE Requirement | Source | Notes
+|--|--|--|--|
+| University of Washington - Bothell | Optional | [link](https://ischool.uw.edu/programs/mlis/admissions/resources/faq) |
 
 _Note: Many schools are still in the process of updating their websites for Fall 2022 admission. Please make sure to double check the source link if you're planning to apply!_
 
