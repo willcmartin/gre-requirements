@@ -22,7 +22,7 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | Arizona State University | 🟩 | [link](https://webapp4.asu.edu/programs/t5/majorinfo/ASU00/ESCENCMS/graduate/false) | 🟩 | [link](https://cidse.engineering.asu.edu/graduate-computer-science/) |
 | Caltech | NA | NA | 🟨 | [link](https://cms.caltech.edu/academics/grad) |
 | Carnegie Mellon | 🟨 | [link](https://www.cs.cmu.edu/academics/graduate-admissions) | 🟨 | [link](https://www.cs.cmu.edu/academics/graduate-admissions) | M.S. - _highly_ recommended; Ph.D. - encouraged; Variety of degrees offered, see link for details
-| Columbia University | 🟥 | [link](https://www.cs.columbia.edu/education/ms/) | 🟩 | [link](https://www.cs.columbia.edu/education/admissions8/) |
+| Columbia University | 🟩 | [link](https://www.cs.columbia.edu/education/ms/appfaq/) | 🟩 | [link](https://www.cs.columbia.edu/education/admissions8/) |
 | Cornell | 🟨 | [link](https://www.cs.cornell.edu/masters/apply/application) | 🟥 | [link](https://www.cs.cornell.edu/phd/admissions) |
 | Georgia Tech | 🟨 | [link](https://grad.gatech.edu/degree-programs/computer-science-campus) | 🟨 | [link](https://grad.gatech.edu/degree-programs/computer-science-campus) | Contradiction from this [source](https://www.cc.gatech.edu/academics/degree-programs/masters/computer-science/admissionreqs), more accurate information is being pursued
 | Harvard University | 🟥 | [link](https://www.seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply) | 🟥 | [link](https://www.seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply) |
