@@ -19,31 +19,31 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
   
 | School | M.S. Req.| M.S. Source | Ph.D. Req.| Ph.D Source | Notes
 |:--|:--:|:--:|:--:|:--:|:--|
-| Stanford | 🟨 | [link](https://cs.stanford.edu/admissions/checklist) | 🟨 | [link](https://cs.stanford.edu/admissions/checklist) |
-| MIT | 🟥 | [link](https://www.eecs.mit.edu/academics-admissions/graduate-program/faqs) | 🟥 | [link](https://www.eecs.mit.edu/academics-admissions/graduate-program/faqs) |
-| University of California - Berkeley | 🟥 | [link](https://eecs.berkeley.edu/academics/graduate/research-programs/admissions) | 🟥 | [link](https://eecs.berkeley.edu/academics/graduate/research-programs/admissions) |
-| Caltech | NA | NA | 🟨 | [link](https://cms.caltech.edu/academics/grad) |
-| Georgia Tech | 🟨 | [link](https://grad.gatech.edu/degree-programs/computer-science-campus) | 🟨 | [link](https://grad.gatech.edu/degree-programs/computer-science-campus) | Contradiction from this [source](https://www.cc.gatech.edu/academics/degree-programs/masters/computer-science/admissionreqs), more accurate information is being pursued
-| Carnegie Mellon | 🟨 | [link](https://www.cs.cmu.edu/academics/graduate-admissions) | 🟨 | [link](https://www.cs.cmu.edu/academics/graduate-admissions) | M.S. - _highly_ recommended; Ph.D. - encouraged; Variety of degrees offered, see link for details
-| University of Michigan - Ann Arbor | 🟥 | [link](https://cse.engin.umich.edu/academics/graduate/admissions/) | 🟥 | [link](https://cse.engin.umich.edu/academics/graduate/admissions/) | 
-| Cornell | 🟨 | [link](https://www.cs.cornell.edu/masters/apply/application) | 🟥 | [link](https://www.cs.cornell.edu/phd/admissions) |
-| University of Wisconsin - Madison | 🟨 | [link](https://www.cs.wisc.edu/graduate/ms-and-phd-program/) | 🟨 | [link](https://www.cs.wisc.edu/graduate/ms-and-phd-program/) | M.S. and Ph.D. - score submission recommended |
-| Harvard University | 🟥 | [link](https://www.seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply) | 🟥 | [link](https://www.seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply) |
-| University of Texas - Austin | 🟨 | [link](https://www.cs.utexas.edu/graduate/prospective-students/apply) | 🟨 | [link](https://www.cs.utexas.edu/graduate/prospective-students/apply) |
-|	University of Illinois - Urbana-Champaign | 🟨 | [link](https://cs.illinois.edu/admissions/graduate/faqs) | 🟨 | [link](https://cs.illinois.edu/admissions/graduate/faqs) |
-|	University of Washington | 🟩 | [link](https://www.cs.washington.edu/academics/pmp/admissions/prerequisites) | 🟨 | [link](https://www.cs.washington.edu/academics/phd/admissions/required-materials) | Ph.D - requirement is not clear
-| Princeton University | 🟥 | [link](https://gradschool.princeton.edu/gre-requirements-department) | 🟥 | [link](https://gradschool.princeton.edu/gre-requirements-department) |
-| Columbia University | 🟥 | [link](https://www.cs.columbia.edu/education/ms/) | 🟩 | [link](https://www.cs.columbia.edu/education/admissions8/) |
-| University of California - San Diego | 🟨 | [link](https://cse.ucsd.edu/graduate/admissions) | 🟨 | [link](https://cse.ucsd.edu/graduate/admissions) |
-| Yale University | 🟩 | [link](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements) | 🟥 | [link](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements) |
-| Northwestern University | 🟨 | [link](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/) | 🟨 | [link](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/) |
-| University of California - Los Angeles | 🟨 | [link](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/) | 🟨 | [link](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/) |
-| Virginia Tech | 🟨 | [link](https://cs.vt.edu/Graduate/Prospective.html) | 🟨 | [link](https://cs.vt.edu/Graduate/Prospective.html) | M.S. and Ph.D. - score submission encouraged
-| University of California - Merced Tech | 🟩 | [link](https://graduatedivision.ucmerced.edu/prospective-students/apply-now/requirements) | 🟨 | [link](https://graduatedivision.ucmerced.edu/prospective-students/apply-now/requirements) | Ph.D. - score submission highly encouraged
-| University of Massachusetts - Amherst | 🟩 | [link](https://www.cics.umass.edu/admissions/application-instructions) | 🟨 | [link](https://www.cics.umass.edu/admissions/application-instructions) |
 | Arizona State University | 🟩 | [link](https://webapp4.asu.edu/programs/t5/majorinfo/ASU00/ESCENCMS/graduate/false) | 🟩 | [link](https://cidse.engineering.asu.edu/graduate-computer-science/) |
+| Caltech | NA | NA | 🟨 | [link](https://cms.caltech.edu/academics/grad) |
+| Carnegie Mellon | 🟨 | [link](https://www.cs.cmu.edu/academics/graduate-admissions) | 🟨 | [link](https://www.cs.cmu.edu/academics/graduate-admissions) | M.S. - _highly_ recommended; Ph.D. - encouraged; Variety of degrees offered, see link for details
+| Columbia University | 🟥 | [link](https://www.cs.columbia.edu/education/ms/) | 🟩 | [link](https://www.cs.columbia.edu/education/admissions8/) |
+| Cornell | 🟨 | [link](https://www.cs.cornell.edu/masters/apply/application) | 🟥 | [link](https://www.cs.cornell.edu/phd/admissions) |
+| Georgia Tech | 🟨 | [link](https://grad.gatech.edu/degree-programs/computer-science-campus) | 🟨 | [link](https://grad.gatech.edu/degree-programs/computer-science-campus) | Contradiction from this [source](https://www.cc.gatech.edu/academics/degree-programs/masters/computer-science/admissionreqs), more accurate information is being pursued
+| Harvard University | 🟥 | [link](https://www.seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply) | 🟥 | [link](https://www.seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply) |
+| MIT | 🟥 | [link](https://www.eecs.mit.edu/academics-admissions/graduate-program/faqs) | 🟥 | [link](https://www.eecs.mit.edu/academics-admissions/graduate-program/faqs) |
 | North Carolina State University | 🟩 | [link](https://www.csc.ncsu.edu/academics/graduate/procedure.php) | 🟩 | [link](https://www.csc.ncsu.edu/academics/graduate/procedure.php) |
+| Northwestern University | 🟨 | [link](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/) | 🟨 | [link](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/) |
+| Princeton University | 🟥 | [link](https://gradschool.princeton.edu/gre-requirements-department) | 🟥 | [link](https://gradschool.princeton.edu/gre-requirements-department) |
+| Stanford | 🟨 | [link](https://cs.stanford.edu/admissions/checklist) | 🟨 | [link](https://cs.stanford.edu/admissions/checklist) |
 | Texas A & M University | 🟥 | [link](https://engineering.tamu.edu/cse/academics/degrees/graduate/faq.html#tests) | 🟥 | [link](https://engineering.tamu.edu/cse/academics/degrees/graduate/faq.html#tests) |
+| University of California - Berkeley | 🟥 | [link](https://eecs.berkeley.edu/academics/graduate/research-programs/admissions) | 🟥 | [link](https://eecs.berkeley.edu/academics/graduate/research-programs/admissions) |
+| University of California - Los Angeles | 🟨 | [link](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/) | 🟨 | [link](https://grad.ucla.edu/programs/school-of-engineering-and-applied-science/computer-science/) |
+| University of California - Merced Tech | 🟩 | [link](https://graduatedivision.ucmerced.edu/prospective-students/apply-now/requirements) | 🟨 | [link](https://graduatedivision.ucmerced.edu/prospective-students/apply-now/requirements) | Ph.D. - score submission highly encouraged
+| University of California - San Diego | 🟨 | [link](https://cse.ucsd.edu/graduate/admissions) | 🟨 | [link](https://cse.ucsd.edu/graduate/admissions) |  
+|	University of Illinois - Urbana-Champaign | 🟨 | [link](https://cs.illinois.edu/admissions/graduate/faqs) | 🟨 | [link](https://cs.illinois.edu/admissions/graduate/faqs) |
+| University of Massachusetts - Amherst | 🟩 | [link](https://www.cics.umass.edu/admissions/application-instructions) | 🟨 | [link](https://www.cics.umass.edu/admissions/application-instructions) |
+| University of Michigan - Ann Arbor | 🟥 | [link](https://cse.engin.umich.edu/academics/graduate/admissions/) | 🟥 | [link](https://cse.engin.umich.edu/academics/graduate/admissions/) | 
+| University of Texas - Austin | 🟨 | [link](https://www.cs.utexas.edu/graduate/prospective-students/apply) | 🟨 | [link](https://www.cs.utexas.edu/graduate/prospective-students/apply) |
+|	University of Washington | 🟩 | [link](https://www.cs.washington.edu/academics/pmp/admissions/prerequisites) | 🟨 | [link](https://www.cs.washington.edu/academics/phd/admissions/required-materials) | Ph.D - requirement is not clear
+| University of Wisconsin - Madison | 🟨 | [link](https://www.cs.wisc.edu/graduate/ms-and-phd-program/) | 🟨 | [link](https://www.cs.wisc.edu/graduate/ms-and-phd-program/) | M.S. and Ph.D. - score submission recommended |
+| Virginia Tech | 🟨 | [link](https://cs.vt.edu/Graduate/Prospective.html) | 🟨 | [link](https://cs.vt.edu/Graduate/Prospective.html) | M.S. and Ph.D. - score submission encouraged
+| Yale University | 🟩 | [link](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements) | 🟥 | [link](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements) |
   
 </details>
 
