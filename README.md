@@ -67,6 +67,8 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | Carnegie Mellon University | | | 🟥 | [link](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html) | Website is down, will be updated later
 | Princeton University | 🟥 | [link](https://gradschool.princeton.edu/gre-requirements-department) | 🟥 | [link](https://gradschool.princeton.edu/gre-requirements-department) |
 | Yale University | 🟩 | [link](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements) | 🟩 | [link](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements) |
+| Harvard | 🟥 | [link](https://www.seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply) | 🟥 | [link](https://www.seas.harvard.edu/prospective-students/prospective-graduate-students/how-apply) | A little unclear if this applys to all engineering disciplines or not. If someone could clear this up that would be great. |
+| University of Colorado - Boulder |  |  | 🟥 | [link](https://www.colorado.edu/mechanical/admissions/phd-admissions/what-should-be-my-application) |
 
 </details>
  
