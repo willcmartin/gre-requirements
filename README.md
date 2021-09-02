@@ -61,7 +61,7 @@ Is the GRE required for that graduate program you want to apply to? Well, now yo
 | University of Minnesota - Twin Cities | 🟥 | [link](https://cse.umn.edu/me/academics/graduate/prospective/admissions) | 🟥 | [link](https://cse.umn.edu/me/academics/graduate/prospective/admissions) |
 | University of Wisconsin - Madison | 🟨 | [link](https://guide.wisc.edu/graduate/mechanical-engineering/mechanical-engineering-phd/#admissionstext) | 🟨 | [link](https://guide.wisc.edu/graduate/mechanical-engineering/mechanical-engineering-phd/#admissionstext) |
 | University of Michigan - Ann Arbor | 🟥 | [link](https://me.engin.umich.edu/admissions/graduate/application-requirements) | 🟥 | [link](https://me.engin.umich.edu/admissions/graduate/application-requirements) |
-| Johns-Hopkins | 🟪 | [link](https://me.jhu.edu/meche-graduate-admissions/) | 🟪 | [link](https://me.jhu.edu/meche-graduate-admissions/) |
+| Johns-Hopkins | 🟩 | [link](https://me.jhu.edu/meche-graduate-admissions/) | 🟨 | [link](https://me.jhu.edu/meche-graduate-admissions/) |
 |	University of Illinois - Urbana-Champaign | 🟩 | [link](http://catalog.illinois.edu/graduate/engineering/mechanical-engineering-ms/) | 🟩 | [link](http://catalog.illinois.edu/graduate/engineering/mechanical-engineering-phd/) |
 | Cornell | 🟥 | [link](https://www.mae.cornell.edu/mae/programs/graduate-programs/phd-degree/admissions) | 🟥 | [link](https://www.mae.cornell.edu/mae/programs/graduate-programs/phd-degree/admissions) |
 | Carnegie Mellon University | | | 🟥 | [link](https://www.meche.engineering.cmu.edu/education/graduate-programs/admission/index.html) | Website is down, will be updated later
