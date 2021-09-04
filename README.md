@@ -132,10 +132,13 @@ _Note: Many schools are still in the process of updating their websites for Fall
 - [CS/CS-Adjacent GRE Requirements](https://docs.google.com/spreadsheets/d/13YIIj0x4VnjC1xGyeX_-VcIUrtxUKrGw12dP9YmA6Yc/edit#gid=0)
 - [USA/Canada Math PhD Programs: GRE requirements and Qualifying Exams](https://docs.google.com/spreadsheets/d/1hmdO7af3-lLvtJQO-szayG6blTvAYBQ1JcYXFZ_6apE/edit#gid=0)
 
+### Want to contribute but don't know how?
+- Check out [this resource](https://github.com/firstcontributions/first-contributions)
+
 <details>
   <summary><b>TODO</b></summary><br>
   
-- Add information from additional resources to this file
+- Add information from "additional resources" to this file
 - (Request) Electrical engineering
   
 </details>
