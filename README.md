@@ -1,5 +1,9 @@
 # GRE Requirements
 
+_NOTE: This list is now very out of date. If anyone would like to help update the list for the next admission cycle please feel free to submit a pull request!_
+
+---
+
 Is the GRE required for that graduate program you want to apply to? Well, now you know! Or it wasn't on this list and you kindly added it for everyone else. Just submit a pull request!
 
 **Legend**:
